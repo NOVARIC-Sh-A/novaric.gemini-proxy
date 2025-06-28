@@ -1,0 +1,11 @@
+.cache/
+node_modules/
+.vscode/
+.DS_Store
+.env
+
+.bash*
+.profile
+.sudo_as_admin_successful
+.codeoss/
+.npm/
